@@ -1,0 +1,12 @@
+[
+  {
+      "title": "Design Project Hannover",
+      "image": "project2.jpg",
+      "description": "Upgraded UI to shift their current membership tracking from paper to online."
+  },
+  {
+      "title": "German UI",
+      "image": "project3.jpg",
+      "description": "Developed an app to voice record users orders for food in an office."
+  }
+]

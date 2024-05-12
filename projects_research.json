@@ -1,0 +1,12 @@
+[
+  {
+      "title": "UNL NIMBUS LAB Research",
+      "image": "project3.jpg",
+      "description": "Preformed research on drones. Upgraded website to shift their current membership tracking from paper to online."
+  },
+  {
+      "title": "Human Interaction Research",
+      "image": "project2.jpg",
+      "description": "Developed UI models for HCI project. Used Figma to isolate new models for the Ordering App."
+  }
+]
